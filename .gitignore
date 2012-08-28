@@ -1,0 +1,7 @@
+.DS_Sore
+thumbs.db
+libraries
+modules/*
+!modules/custom
+themes/*
+!themes/custom

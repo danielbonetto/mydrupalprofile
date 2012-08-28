@@ -1,0 +1,4 @@
+name = MyDrupalProfile
+description = Installation profile for MyDrupalProfile
+version = 1.0
+core = 7x
